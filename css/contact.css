@@ -1,0 +1,53 @@
+html
+{
+ background-color: lightgreen;
+ margin-left: 15em;
+}
+
+
+.first
+{
+ width:100px;
+ margin-bottom: 0.5em;
+ border: 1px solid black;
+ margin-left: 10px;
+ background-color: #b0e0e6;
+ padding: 5px 5px 5px 5px;
+}
+
+.last
+{
+ width:100px;
+ margin-bottom: 0.5em;
+ border: 1px solid black;
+ margin-left: 10px;
+ background-color: #b0e0e6;
+ padding: 5px 5px 5px 5px;
+}
+.phone
+{
+ width:200px;
+ margin-bottom: 0.5em;
+ border: 1px solid black;
+ margin-left: 10px;
+ background-color: #b0e0e6;
+ padding: 5px 5px 5px 5px;
+}
+
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 3px solid black;
+	text-align: center;
+}
+td
+{
+ background-color: silver;
+}
+th {
+    background-color: brown;
+    color: black
+}
